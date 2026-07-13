@@ -1,0 +1,28 @@
+OPS445 Assignment 2 - Milestone 1
+Student: Vidhiben Patel
+Seneca Username: vmpatel41
+Date: Mon Jul 13 10:04:14 AM EDT 2026
+==========================================
+
+===== TestPercent =====
+test_percent (__main__.TestPercent.test_percent)
+percent_to_graph returns correct '##    ' format ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+
+===== TestMemFuncs =====
+test_meminfo_avail (__main__.TestMemFuncs.test_meminfo_avail) ... ok
+test_meminfo_total (__main__.TestMemFuncs.test_meminfo_total) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.002s
+
+OK
+
+==========================================
+Student: Vidhiben Patel
+Seneca Username: vmpatel41
+Generated on: Mon Jul 13 10:04:14 AM EDT 2026
