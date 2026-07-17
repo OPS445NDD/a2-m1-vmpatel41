@@ -18,7 +18,7 @@ jobs:
       uses: classroom-resources/autograding-command-grader@v1
       with:
         test-name: TestPercent
-        setup-command: python3 ./checkA2.py -f -v
+        setup-command: echo "No setup required"
         command: python3 ./checkA2.py -f -v TestPercent
         timeout: 10
         max-score: 5
@@ -27,7 +27,7 @@ jobs:
       uses: classroom-resources/autograding-command-grader@v1
       with:
         test-name: TestMemFuncs
-        setup-command: python3 ./checkA2.py -f -v
+        setup-command: echo "No setup required"
         command: python3 ./checkA2.py -f -v TestMemFuncs
         timeout: 10
         max-score: 5
